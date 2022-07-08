@@ -5,7 +5,6 @@ import "./index.css";
 import App from "./App.js";
 import reportWebVitals from "./reportWebVitals";
 import Weather from "./Weather.js";
-import Github from "./Github";
 import "bootstrap/dist/css/bootstrap.css";
 
 const rootElement = document.getElementById("root");
@@ -15,7 +14,6 @@ root.render(
   <StrictMode>
     <App />
     <Weather />
-    <Github />
   </StrictMode>
 );
 
