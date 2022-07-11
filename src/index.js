@@ -4,7 +4,6 @@ import { createRoot } from "react-dom/client";
 import "./index.css";
 import App from "./App.js";
 import reportWebVitals from "./reportWebVitals";
-import Weather from "./Weather.js";
 import "bootstrap/dist/css/bootstrap.css";
 
 const rootElement = document.getElementById("root");
